@@ -1,0 +1,8 @@
+11$12$2017$5
+11$12$2017$5
+11$12$2017$2
+11$12$2017$9
+11$12$2017$5
+11$12$2017$2
+14$12$2017$Week — Блокнот$53$C:\Windows\System32\notepad.exe$ConsoleApplication5$10$C:\Windows\explorer.exe$Projects$2$C:\Windows\explorer.exe$Visual Studio 2012$1$C:\Windows\explorer.exe$Документы$4$C:\Windows\explorer.exe$Этот компьютер$1$C:\Windows\explorer.exe$Гистограмма$53$C:\Users\Dmitryi\Documents\build-ProcessForm-Desktop_Qt_5_6_2_MinGW_32bit-Debug\debug\ProcessForm.exe$Form$22$C:\Users\Dmitryi\Documents\build-ProcessForm-Desktop_Qt_5_6_2_MinGW_32bit-Debug\debug\ProcessForm.exe$MainWindow$60$C:\Users\Dmitryi\Documents\build-ProcessForm-Desktop_Qt_5_6_2_MinGW_32bit-Debug\debug\ProcessForm.exe$mainwindow.cpp - ProcessForm - Qt Creator$24$C:\Qt1\Qt5.6.2\Tools\QtCreator\bin\qtcreator.exe$Program Manager$5$C:\Windows\explorer.exe$CheckTime$12$C:\Users\Dmitryi\Documents\Visual Studio 2012\Projects\ConsoleApplication5\Debug\ConsoleApplication5.exe$302
+27$12$2017$4

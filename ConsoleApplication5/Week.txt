@@ -1,0 +1,8 @@
+ Статистика использованния приложений за неделю: 
+|Название                                       |                                                            |     Время     |
+| ConsoleApplication5 - Microsoft Visual Studio |                                                            | 0 ч 0 м 40 с  | 
+| Начальная страница - Microsoft Visual Studio  |                                                            | 0 ч 0 м 31 с  | 
+| EA SPORTS FIFA 15 |                                                                                        | 0 ч 8 м 2 с   | 
+| Program Manager |                                                                                          | 1 ч 15 м 57 с | 
+                                                                                                                                                                                                                       | 0 ч 0 м 6 с  | 
+
